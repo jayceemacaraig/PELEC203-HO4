@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "PELEC203",
-    "slug": "HO4_Jaycee_app",
+    "slug": "HO4_JayCee_App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.jayceemacaraig.HO2_Macaraig_app"
+      "package": "com.jayceemacaraig.HO4_Macaraig_app"
     },
     "web": {
       "bundler": "metro",
@@ -43,7 +43,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "52de84ed-b326-48ff-8ff9-047d01d11bb7"
+        "projectId": "eb0546ee-c3b7-48ee-85c4-d3cd2cc4749e"
       }
     }
   }
