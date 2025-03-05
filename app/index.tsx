@@ -126,7 +126,7 @@ const App = () => {
                 <View style={{flexDirection: 'row', gap: 10}}>
                   <Image style={{width: 45, height:45, borderRadius: 10}} source={require('../assets/images/transaction4.png')}></Image>
                   <View style={{gap: 5}}>
-                    <Text style={{fontFamily: 'Arial', fontWeight: 'bold', fontSize: 15}}>McDo App</Text>
+                    <Text style={{fontFamily: 'Arial', fontWeight: 'bold', fontSize: 15}}>McDonald's</Text>
                     <Text style={{fontFamily: 'Arial', fontSize: 13}}>Order successfully paid.</Text>
                   </View>
                 </View>
